@@ -1,3 +1,1 @@
-<!Doctype html>
-<html>
-</html>
+ EPAM HR departmen.
